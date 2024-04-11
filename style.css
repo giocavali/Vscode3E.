@@ -25,3 +25,14 @@ body{
     width: 100%;
     font-size: 32px
 }
+.botaop{
+    font-family: "Chakra Petch",sens-serif;
+    background-color: var(--botao-inativo);
+    color: var(--branco);
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    font-size: 18px;
+    align-items: center;
+    width: 100%;
+}
