@@ -26,8 +26,8 @@ body{
     width: 100%;
     font-size: 32px
 }
-.botaop{
-    font-family: "Chakra Petch",sens-serif;
+.botao{
+    font-family: "Chakra Petch", sans-serif;
     background-color: var(--botao-inativo);
     color: var(--branco);
     display: flex;
